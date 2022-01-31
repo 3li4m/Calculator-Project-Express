@@ -1,0 +1,2 @@
+- To Run this you must first have node Installed on you pc once you do navigate to the folder with CMD or Powershell and run node calculator.js
+- connect to localhost:3000
